@@ -1,6 +1,7 @@
 
-# Web Scraping Tabela Brasieleirão Série A - Utilizando Python
-* Consulta Tabela de Classificação do Braisleirão Séria A - 2022
+# Web Scraping Tabela Brasieleirão Série A - Utilizando Python + Selenium
+* Consulta Tabela de Classificação do Braisleirão Séria A - 2022;
+* Exportando arquivo .csv.
 ## Pre Requisitos
 ### O que você precisa instalar para utilizar:
 
