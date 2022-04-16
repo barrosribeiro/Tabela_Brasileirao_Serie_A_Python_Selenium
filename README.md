@@ -27,3 +27,5 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## Autor
+* Leonardo Ribeiro
